@@ -1,0 +1,8 @@
+This is example to show colors
+
+Red
+Blue
+Green
+Orange
+Pink
+Purpl
