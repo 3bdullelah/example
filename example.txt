@@ -1,10 +1,9 @@
-This is example to show colors
+This is Branch Example to show Branch Colors:
 
 Red
 Blue
 Green
 Orange
-Pink
-Purpl
 Black
+White
 Yellow
