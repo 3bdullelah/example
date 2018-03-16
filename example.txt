@@ -1,8 +1,11 @@
 This is Branch Example to show Branch Colors:
 
 Red
+Light Red
 Blue
+Light Blue
 Green
+Light Green
 Orange
 Black
 White
