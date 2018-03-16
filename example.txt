@@ -10,3 +10,7 @@ Orange
 Black
 White
 Yellow
+Gray
+Dark Green
+Dark Red
+Dark Blue
